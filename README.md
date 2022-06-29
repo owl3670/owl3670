@@ -1,4 +1,9 @@
-### Hi there 👋
+## I want to develop further
+
+자만하지 않고 더 발전하고 싶은 개발자입니다.
+매일 조금씩이라도 전진하려 노력합니다.
+
+      
 
 <!--
 **owl3670/owl3670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
