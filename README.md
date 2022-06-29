@@ -3,6 +3,7 @@
 자만하지 않고 더 발전하고 싶은 개발자입니다.   
 매일 조금씩이라도 전진하려 노력합니다.
 
+- 📄 [Resume](https://mangrove-saturn-008.notion.site/Resume-d97485f609b344589163ab1210327aeb)
       
 
 <!--
