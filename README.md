@@ -4,6 +4,7 @@
 매일 조금씩이라도 전진하려 노력합니다.
 
 - 📄 [Resume](https://mangrove-saturn-008.notion.site/Resume-d97485f609b344589163ab1210327aeb)
+- 🎧 [Discord Channel](https://discord.gg/S9anTEBT9w)
       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owl3670&show_icons=true&theme=dark)](https://github.com/owl3670)
 
