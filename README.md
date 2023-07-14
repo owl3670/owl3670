@@ -1,15 +1,7 @@
-## I want to develop further
-
-자만하지 않고 더 발전하고 싶은 개발자입니다.   
-매일 조금씩이라도 전진하려 노력합니다.
+## Bubobubo
 
 - 📄 [Resume](https://mangrove-saturn-008.notion.site/Resume-d97485f609b344589163ab1210327aeb)
 - 🎧 [Discord Channel](https://discord.gg/S9anTEBT9w)
-      
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owl3670&show_icons=true&theme=dark)](https://github.com/owl3670)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owl3670&layout=compact&theme=dark)](https://github.com/owl3670)
-
 
 <!--
 **owl3670/owl3670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
